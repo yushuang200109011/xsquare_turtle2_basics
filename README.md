@@ -11,7 +11,7 @@ pip install .
 Or install directly from a git URL:
 
 ```bash
-pip install git+https://github.com/<your-org>/turtle2_basic.git
+pip install git+https://github.com/RLinf/xsquare_turtle_basics.git
 ```
 
 ### ROS dependencies
